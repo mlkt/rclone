@@ -30,6 +30,7 @@ import (
 	_ "github.com/rclone/rclone/backend/internetarchive"
 	_ "github.com/rclone/rclone/backend/jottacloud"
 	_ "github.com/rclone/rclone/backend/koofr"
+	_ "github.com/rclone/rclone/backend/kopia"
 	_ "github.com/rclone/rclone/backend/linkbox"
 	_ "github.com/rclone/rclone/backend/local"
 	_ "github.com/rclone/rclone/backend/mailru"
